@@ -13,7 +13,7 @@
 	},
 	"cycle": [
 		{ "fg": "#EFEFEF", "bg": "#39166640" },
-		{ "fg": "#EFEFEF", "bg": "#620d8f40" }
+		{ "fg": "#EFEFEF", "bg": "#b54ced40" }
 	],
 	"dnf": {
 		"good": {
